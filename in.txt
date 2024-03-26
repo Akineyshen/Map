@@ -1,0 +1,21 @@
+20 20
+oooooooooooooooooooo
+oxxxoxoooooooooooooo
+oxooxoooxoooxooooooo
+ooooxooxoxoxoxoooooo
+ooxxxoxxooxxoxxxoooo
+oooxoxoxooxxoooxxooo
+oooooooooooooooxxxoo
+oxxxxxxxoooooxxoxooo
+oxxxxxxxoooooooooooo
+oooooooooooooooooooo
+xxxxxxxxuxxxxxxxxxxx
+uuuuuuxxuxxxuuuuxuxx
+xxuxxxxuuuuxuxxuuuxx
+xxuxuxxxxxuuuxxxxuxx
+xxuxuuuxuxxxxxxxxuxx
+xxuxuxuxuuuuuuxxuuuu
+xxuxxxuxuxuxxuxxuxxu
+uxuxuuuxuxuxxuxuuuxx
+uxuxuxuxxxuxxuuuxxxx
+uuuuuxuuuuuuxxxxxxxx
